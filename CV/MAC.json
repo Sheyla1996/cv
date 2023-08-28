@@ -10,6 +10,10 @@
       "surnames": "Martínez González",
       "title": "Frontend Developer",
       "description": "Soy programadora con una amplia experiencia en desarrollo frontend, respaldada por sólidos conocimientos en backend y desarrollo de aplicaciones Android. \n\nGraduada en Desarrollo de Aplicaciones Multiplataforma, tengo habilidades avanzadas en una variedad de tecnologías, entre las que se incluyen Javascript, Angular, React, Web Components, NodeJS, Typescript y D3JS. \n\nMi pasión por el aprendizaje continuo me ha permitido adaptarme y evolucionar en el cambiante mundo de la programación. Considero que el trabajo en equipo es esencial para el éxito de cualquier proyecto, y me enorgullece aportar con mi experiencia y habilidades para lograr resultados excepcionales.",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/28/237edf9a-32ad-4e60-9f37-ac42a1e83edd_img_20190223_142214-.jpg",
+        "alt": "IMG_20190223_142214-EDIT.jpg"
+      },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
         "country": "España",
