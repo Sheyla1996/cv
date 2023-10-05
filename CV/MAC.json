@@ -37,6 +37,11 @@
             "name": "Sngular",
             "startDate": "2019-05-01",
             "finishDate": "2023-10-01",
+            "challenges": [
+              {
+                "description": "He trabajado para clientes como el BBVA, Ferrovial, Randstad, Telefónica o Decathlon.\n\n\n"
+              }
+            ],
             "competences": [
               {
                 "name": "Angular Universal",
@@ -168,10 +173,6 @@
               },
               {
                 "name": "Swagger",
-                "type": "technology"
-              },
-              {
-                "name": "Tailwind",
                 "type": "technology"
               },
               {
